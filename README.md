@@ -13,8 +13,8 @@ Parameters:
 - `backspace`
 - `which` - chooses a plugin folder (main | thirdparty | both)
 
+## Change Log
 
-Version 1.1
-******************
-- Updated plugin to be 2.0 compatible
-- Added which parameter
+- Version 1.1
+	- Updated plugin to be 2.0 compatible
+	- Added which parameter
